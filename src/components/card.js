@@ -5,7 +5,7 @@ class Card extends Component {
     render(){
         return(
             <div className="card">
-                This is where the fun begins
+            
                 {Input('Color') }
                 {Input('Plural Noun') }
             </div>
