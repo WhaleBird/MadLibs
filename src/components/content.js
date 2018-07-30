@@ -9,12 +9,10 @@ export default class Content extends Component {
     }
     render() {
         const data = this.props.data;
-        for(key in data) {
-            
-        }
-        this.props.data.map((object,index)=> {
-            console.log(index);
-        });
+       
+        // this.props.data.map((object,index)=> {
+        //     console.log(index);
+        // });
         
         return (
             <p>
