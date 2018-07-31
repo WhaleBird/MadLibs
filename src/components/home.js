@@ -17,4 +17,12 @@ import Card from './card';
   }
 }
 
+// TODO
+
+//fix /positioning on button 
+/////labels for content
+////// clear generate btn space/card-height
+////
+////
+///
 export default Home;
